@@ -1,0 +1,7 @@
+[package]
+name = "leveldb"
+version = "0.1.0"
+authors = ["nooberfsh <nooberfsh@gmail.com>"]
+
+[dependencies]
+byteorder = "1"
